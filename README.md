@@ -4,5 +4,7 @@
 
 - SQL para Acessar, Definir e Manter Dados
 
-<img srv="https://www.oracle.com/a/ocom/img/sql.svg">
+<img srv="https://www.oracle.com/a/ocom/img/sql.svg" width="60" height="60">
+
+
 
