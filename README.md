@@ -6,4 +6,6 @@
 
 - SQL para Acessar, Definir e Manter Dados
 
-
+![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
+![License](https://img.shields.io/badge/SQL-learning-yellowgreen.svg)
+![License](https://img.shields.io/badge/UFSC-Banco%20de%20Dados-red.svg)
