@@ -1,5 +1,7 @@
 <img src="https://www.oracle.com/a/ocom/img/sql.svg" width="60" height="60">
 
+<img src="images/image_bd.png" width="10%" height="10%" align="center" valign="center"/> 
+
 # SQL Consult Query
 
 - Estudos sobre consultas e analise de dados
@@ -26,7 +28,6 @@
 ---
 
 ### INE5600 - banco de dados III
-<img src="images/image_bd.png" width="10%" height="10%" align="center" valign="center"/>
  - [Banco de dados orientado à objetos: aulas]()
  - [Banco de dados orientado à objetos: exercícios]()
  - [Bancos de Dados Temporais: aulas]()
