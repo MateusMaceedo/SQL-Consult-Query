@@ -37,3 +37,13 @@
  - [Not only (NoSQL)]()
  - [New SQL]()
  ---
+
+ ### Bizus
+ - Cheat Sheet: https://gist.github.com/janikvonrotz/6e27788f662fcdbba3fb
+ 
+ ### Livros de referência: 
+  - [Sistemas de Banco de Dados - Elmasri e Navathe - 6ª Edicao]()
+   - [Sistemas de Gerenciamento de Banco de Dados - Ramakrishnan e Gehrke - 6ª Edicao]()
+   - [Use a cabeca - SQL]()
+
+---
