@@ -39,7 +39,7 @@
  ---
 
  ### Bizus
- - Cheat Sheet: https://gist.github.com/janikvonrotz/6e27788f662fcdbba3fb
+ - Cheat Sheet: https://gist.github.com/MateusMaceedo/f3a499751fde84ecb0fab8074fc25017
  
  ### Livros de referência: 
   - [Sistemas de Banco de Dados - Elmasri e Navathe - 6ª Edicao]()
