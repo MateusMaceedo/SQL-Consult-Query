@@ -18,3 +18,22 @@
  - [SQL: exercícios](https://github.com/brunocampos01/banco-de-dados/tree/master/sql/exercicios)
  
 ---
+
+### INE5426 - banco de dados II
+- [Tuning em banco de dados](https://github.com/brunocampos01/banco-de-dados/tree/master/bd_II)
+- [Seminario sobre a rede Tangle (blockchain 3.0)]()
+
+---
+
+### INE5600 - banco de dados III
+ - [Banco de dados orientado à objetos: aulas]()
+ - [Banco de dados orientado à objetos: exercícios]()
+ - [Bancos de Dados Temporais: aulas]()
+ - [Bancos de Dados Temporais: exercícios]()
+ - [Bancos de Dados Geográficos: aulas]()
+ - [Bancos de Dados Geográficos: exercícios]()
+ - [Bancos de Dados XML: aulas]()
+ - [Bancos de Dados XML: exercícios]()
+ - [Not only (NoSQL)]()
+ - [New SQL]()
+ ---
