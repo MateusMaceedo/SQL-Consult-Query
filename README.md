@@ -39,7 +39,7 @@
  ---
 
  ### Bizus
- - Cheat Sheet: https://gist.github.com/janikvonrotz/6e27788f662fcdbba3fb
+ - Cheat Sheet: https://gist.github.com/MateusMaceedo/f3a499751fde84ecb0fab8074fc25017
  
  ### Livros de referência: 
   - [Sistemas de Banco de Dados - Elmasri e Navathe - 6ª Edicao]()
@@ -53,4 +53,3 @@
 
 ### Copyright
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Bruno A. R. M. Campos</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
