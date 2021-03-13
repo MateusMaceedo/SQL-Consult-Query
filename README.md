@@ -1,6 +1,6 @@
 <img src="https://www.oracle.com/a/ocom/img/sql.svg" width="60" height="60">
 
-# SQL Consult Query
+# Banco de Dados
 
 - Estudos sobre consultas e analise de dados
 
