@@ -26,6 +26,7 @@
 ---
 
 ### INE5600 - banco de dados III
+<img src="images/image_bd.png" width="10%" height="10%" align="center" valign="center"/>
  - [Banco de dados orientado à objetos: aulas]()
  - [Banco de dados orientado à objetos: exercícios]()
  - [Bancos de Dados Temporais: aulas]()
