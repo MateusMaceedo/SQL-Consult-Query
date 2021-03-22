@@ -5,10 +5,7 @@
 ![License](https://img.shields.io/badge/UFSC-Banco%20de%20Dados-red.svg)
 
 # Banco de Dados
-
 - Estudos sobre consultas e analise de dados
->Esse repositorio foi construido para fins de aprendizagem, registro aqui o meu aprendizado na semana "Imersão DEV", contendo o código fonte e a narrativa das atividades realizadas ao decorrer da semana
-
 - SQL para Acessar, Definir e Manter Dados
 
 ### INE5613 - banco de dados I
