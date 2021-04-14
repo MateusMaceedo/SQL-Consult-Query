@@ -43,6 +43,7 @@
   - [Sistemas de Banco de Dados - Elmasri e Navathe - 6ª Edicao]()
    - [Sistemas de Gerenciamento de Banco de Dados - Ramakrishnan e Gehrke - 6ª Edicao]()
    - [Use a cabeca - SQL]()
+   - [Documentação e estudos SQL](https://gist.github.com/MateusMaceedo/f3a499751fde84ecb0fab8074fc25017)
 
 ---
 
